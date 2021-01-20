@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "kt-footprints")(type "KiCad")(uri "${KIPRJMOD}/../../lib/kt-footprints.pretty")(options "")(descr ""))
+  (lib (name "gsd-footprints")(type "KiCad")(uri "C:/Users/kadet/Documents/General Git/Greg/advent-calendar-of-circuits-2020/lib/gsd-footprints.pretty")(options "")(descr ""))
+  (lib (name "pkl_connectors")(type "KiCad")(uri "C:/Users/kadet/Documents/General Git/KiCad/pkl-kicad-libs/pkl_connectors.pretty")(options "")(descr ""))
+)
