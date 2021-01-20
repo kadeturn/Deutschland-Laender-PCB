@@ -1,6 +1,0 @@
-[submodule "hw/lib/"]
-	path = hw/lib/
-	url = https://github.com/kadeturn/kt-kicad-libs.git
-[submodule "hw\\lib"]
-	path = hw\\lib
-	url = https://github.com/kadeturn/kt-kicad-libs.git
