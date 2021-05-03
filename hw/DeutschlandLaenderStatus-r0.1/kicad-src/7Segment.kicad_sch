@@ -42,15 +42,6 @@
         )
         (polyline
           (pts
-            (xy 1.27 -1.27)
-            (xy 1.27 1.27)
-            (xy -1.27 0)
-            (xy 1.27 -1.27)
-          )
-          (stroke (width 0.254)) (fill (type outline))
-        )
-        (polyline
-          (pts
             (xy -3.048 -0.762)
             (xy -4.572 -2.286)
             (xy -3.81 -2.286)
@@ -68,6 +59,15 @@
             (xy -3.302 -1.524)
           )
           (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.27 -1.27)
+            (xy 1.27 1.27)
+            (xy -1.27 0)
+            (xy 1.27 -1.27)
+          )
+          (stroke (width 0.254)) (fill (type outline))
         )
       )
       (symbol "LED_Filled_1_1"
